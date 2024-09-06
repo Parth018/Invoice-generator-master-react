@@ -2,7 +2,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-An Invoice creator project built with React. Add itemized items, and configure quantities, prices, tax rates,& discounts. Download the Invoice as a PDF to any of your devices. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to capture the data from the modal and covert it from canvas -> to pdf.
+An Invoice creator project built with React. Add itemized items, and configure quantities, prices, tax rates,& discounts. Download the Invoice as a PDF to any of your devices. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to capture the data from the modal and covert it from canvas to pdf.
 
 ### Live Demo
 
@@ -19,14 +19,14 @@ https://invoice-generator-react.netlify.app/
 ```
 git clone repos: https://github.com/Parth018/invoice-generator
 
-npm install - (node_module)
+npm install (node_module)
 
 npm start / npm run build
 ```
 
 ### To-Do
 
-- [x] Finish parsing data into Preview Modal 
+- [x] Finish parsing data into Preview-Modal 
 
 - [x] Currency Picker 
 
