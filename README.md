@@ -19,7 +19,7 @@ https://invoice-generator-react.netlify.app/
 ```
 git clone repos: https://github.com/Parth018/invoice-generator
 
-npm install (node_module)
+npm i (node_module)
 
 npm start / npm run build
 ```
