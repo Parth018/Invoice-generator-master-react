@@ -2,7 +2,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-An Invoice creator project built with React. Add itemized items - configure quantities, prices, tax, discounts. Download invoice or PDF to any of your devices. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to capture the data to the modal & covert it from canvas to pdf.
+An Invoice creator project built with React. Add itemized items - configure quantities, prices, tax, discounts. Download the invoice or PDF to any of your devices. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to capture the data to the modal & covert it from canvas to pdf.
 
 ### Live Demo
 
@@ -32,4 +32,4 @@ npm start / npm run build
 
 - [x] Calculate Tax & Discounts
 
-- [ ] Store invoices in Firebase DB
+- [ ] Store invoices in the Firebase Database
